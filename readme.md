@@ -1,8 +1,8 @@
 ## Lab Management Project For Pharmacies
 
-Lab Tests
-Test Groups
-Patient Management
+Lab Tests,
+Test Groups,
+Patient Management,
 Analyzers
 
 
