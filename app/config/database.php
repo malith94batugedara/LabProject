@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'appexsl.com',
+			'host'      => 'localhost',
 			'database'  => 'dbused2bkzwtkr',
-			'username'  => 'u8tbcgbsicxn3',
-			'password'  => 'dev@apexlab1',
+			'username'  => 'root',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
